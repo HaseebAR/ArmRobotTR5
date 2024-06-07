@@ -1,0 +1,13 @@
+# تجاهل ملفات البناء والتفريغ
+build/
+bin/
+*.hex
+
+# تجاهل ملفات IDE
+.settings/
+.project
+.cproject
+
+# تجاهل ملفات الاعتمادات
+*.dll
+*.so

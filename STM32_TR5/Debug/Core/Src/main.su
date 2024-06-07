@@ -1,0 +1,13 @@
+../Core/Src/main.c:94:6:arm_up	8	static
+../Core/Src/main.c:221:6:arm_down	8	static
+../Core/Src/main.c:341:6:rot_base	16	static
+../Core/Src/main.c:382:6:arm_down2	8	static
+../Core/Src/main.c:454:6:arm_up2	8	static
+../Core/Src/main.c:533:6:arm_down44	8	static
+../Core/Src/main.c:654:6:arm_up44	8	static
+../Core/Src/main.c:785:5:main	8	static
+../Core/Src/main.c:1009:6:SystemClock_Config	96	static
+../Core/Src/main.c:1056:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:1142:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:1190:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:1220:6:Error_Handler	8	static,ignoring_inline_asm
